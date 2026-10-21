@@ -1,0 +1,12 @@
+# .pubignore replaces .gitignore for `dart pub publish`; list everything pub must not ship.
+.dart_tool/
+/build/
+/coverage/
+/pubspec.lock
+*.iml
+.idea/
+.DS_Store
+# Development-only material: golden fixtures, generator, tracking docs.
+/tool/
+/test/golden/
+/docs/

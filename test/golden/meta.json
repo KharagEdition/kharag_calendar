@@ -1,0 +1,24 @@
+{
+  "caltib_repo": "https://github.com/gantemur/caltib",
+  "caltib_commit": "bd15aa9031058fd7962de40e35421b9b6a21da40",
+  "generated_at": "2026-10-21T04:07:51+00:00",
+  "command": "python3 tool/golden/gen_golden.py --caltib-src <caltib/src> --from 1800 --to 2200 --out test/golden",
+  "range": {
+    "from": 1800,
+    "to": 2200
+  },
+  "traditions": [
+    "phugpa",
+    "bhutan",
+    "mongol"
+  ],
+  "files": {
+    "days_phugpa_1800_2200.csv.gz": 146462,
+    "days_bhutan_1800_2200.csv.gz": 146462,
+    "days_mongol_1800_2200.csv.gz": 146462,
+    "months_phugpa_1800_2200.csv.gz": 4986,
+    "months_bhutan_1800_2200.csv.gz": 4986,
+    "months_mongol_1800_2200.csv.gz": 4986,
+    "tables.csv.gz": 8352
+  }
+}
