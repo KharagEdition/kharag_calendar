@@ -1,6 +1,8 @@
 name: kharag_calendar
 description: Tibetan (Phugpa), Bhutanese and Mongolian lunisolar calendar conversions in pure Dart, bit-for-bit identical to the caltib reference library.
 version: 0.1.0
+repository: https://github.com/KharagEdition/kharag_calendar
+issue_tracker: https://github.com/KharagEdition/kharag_calendar/issues
 
 environment:
   sdk: ^3.8.0
